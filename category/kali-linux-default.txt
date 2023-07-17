@@ -1,0 +1,11 @@
+autopsy
+cutycapt
+dirbuster
+faraday
+fern-wifi-cracker
+guymager
+king-phisher
+legion
+ophcrack
+ophcrack-cli
+sqlitebrowser

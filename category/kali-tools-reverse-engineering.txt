@@ -1,0 +1,12 @@
+apktool
+bytecode-viewer
+clang
+dex2jar
+edb-debugger
+jadx
+javasnoop
+jd-gui
+ollydbg
+radare2
+rizin-cutter
+rz-ghidra

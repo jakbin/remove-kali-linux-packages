@@ -1,0 +1,9 @@
+jsql-injection
+mdbtools
+oscanner
+sidguesser
+sqldict
+sqlitebrowser
+sqlninja
+sqlsus
+tnscmd10g
